@@ -6,7 +6,7 @@ title: YatraMatrix privacy policy
 
 Last updated: 8 November 2026. This is a plain description of what the app does.
 
-YatraMatrix is a travel guide to Nepal: places, treks, safety information and a guide called Ask Dawa. It is published by Bhushan Tandukar. Questions or requests: b.bhushan.tandukar@gmail.com.
+YatraMatrix is a travel guide to Nepal: places, treks, safety information and a guide called Ask Dawa. It is published by Bhushan Tandukar. Questions or requests: bhushanrtandukar@gmail.com.
 
 ## The short version
 
@@ -47,7 +47,7 @@ Location is optional: SOS "Find my position", "Follow this trek" (a notification
 ## How long we keep it, and deleting it
 
 - **Delete everything in the app:** Profile, "Account and privacy", Delete account. This removes your account and everything you made with it (trips, shared prices and reports, claims).
-- **Without the app:** e-mail b.bhushan.tandukar@gmail.com from the address on the account and we will delete it within 30 days. There is also a page for this: [how to delete your account](delete-account).
+- **Without the app:** e-mail bhushanrtandukar@gmail.com from the address on the account and we will delete it within 30 days. There is also a page for this: [how to delete your account](delete-account).
 - Anonymous questions and counts cannot be matched to you, so they are not removed on request (questions are deleted automatically after 180 days).
 - Backups held by our hosting provider age out on its normal schedule.
 
@@ -69,4 +69,4 @@ If this policy changes in a way that matters, the app will say so and this page 
 
 ## Contact
 
-b.bhushan.tandukar@gmail.com
+bhushanrtandukar@gmail.com
