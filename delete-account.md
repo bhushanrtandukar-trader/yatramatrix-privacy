@@ -18,7 +18,7 @@ This removes your account and everything linked to it: your trips, the prices an
 
 ## Without the app
 
-E-mail **b.bhushan.tandukar@gmail.com** from the address you signed up with, with the subject "Delete my YatraMatrix account". We will delete the account and its data within 30 days and reply to confirm.
+E-mail **bhushanrtandukar@gmail.com** from the address you signed up with, with the subject "Delete my YatraMatrix account". We will delete the account and its data within 30 days and reply to confirm.
 
 ## What is not removed
 
